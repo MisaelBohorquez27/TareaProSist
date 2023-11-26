@@ -21,7 +21,7 @@ int main(void) {
   char contraseña[10];
 
   int opcion;
-  
+
   while (opcion != 8) {
     printf("1. Registrar usuario\n");
     printf("2. Registrar venta\n");
